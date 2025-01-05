@@ -38,19 +38,19 @@ class CRecycleSort
         void update();  // Function to update sorting logic based on the video feed
 
     private:
-		void Initialize_gpio();
-		void Select_Bin(int angle, char color_bin)
+	void Initialize_gpio();
+	void Select_Bin(int angle, char color_bin)
 		
         bool do_exit;  // Flag to exit the program
         double start_tic, freq, elapsed_time;  // Timer variables
         int angle, temp_angle;  // Servo angle tracking
-		int on_off;  // Variables for color and sorting settings
-		int bin_num;  // Variables for color thresholds
+	int on_off;  // Variables for color and sorting settings
+	int bin_num;  // Variables for color thresholds
         int pixel_hue, pixel_sat, pixel_value;  // Variables for pixel color information
         int Blue, Green, White, Pink;  // Color counters
         std::string color_name;  // Name of detected color
         std::string previous_color;  // Previous detected color
-		cv::Mat frame, frame_HSV;  // Matrices for video frame and processing
+	cv::Mat frame, frame_HSV;  // Matrices for video frame and processing
         cv::Point gui_position;  // Position of GUI elements
 
 };
