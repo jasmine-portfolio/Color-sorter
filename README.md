@@ -2,7 +2,7 @@
 
 The **Color Sorter** is an automatic 4-color ball sorter designed to sort up to 16 balls in just 15 seconds. This system, powered by a **Raspberry Pi**, integrates **computer vision**, **servo motors**, and **LED feedback** to sort objects based on their color. The project features a camera for real-time color detection, GPIO control for servos and LEDs, and a GUI interface for manual operation.
 
-[Watch the demo video](https://github.com/jasmine-portfolio/Color-sorter/releases/download/v1/your-video.mp4)
+[Watch the demo video](https://github.com/jasmine-portfolio/Color-sorter/blob/v1.0/media/ball-sorter.mp4)
 
 ![ball-sorter](https://github.com/user-attachments/assets/dd9f564c-9769-4d5d-84b3-3a66db1ee328)
 
