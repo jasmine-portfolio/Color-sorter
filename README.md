@@ -38,7 +38,7 @@ Follow these steps to get started with the project:
 - **Step 2**: Clone the repository by running this command in your terminal:
     
     ```
-    bash    git clone https://github.com/yourusername/color-sorting-system.git  
+    bash    git clone https://github.com/jasmine-portfolio/Color-sorter.git  
     ```
 - **Step 3**: Connect the components to your Raspberry Pi according to the **Hardware Requirements** section.
 - **Step 4**: Run the program and enjoy!
