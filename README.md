@@ -2,8 +2,7 @@
 
 The **Color Sorter** is an automatic 4-color ball sorter designed to sort up to 16 balls in just 15 seconds. This system, powered by a **Raspberry Pi**, integrates **computer vision**, **servo motors**, and **LED feedback** to sort objects based on their color. The project features a camera for real-time color detection, GPIO control for servos and LEDs, and a GUI interface for manual operation.
 
-![image](https://github.com/user-attachments/assets/6cd74252-757b-4fc0-9ddd-d2697c4ecb1c)
-
+![ball-sorter](https://github.com/user-attachments/assets/04f8e8dd-9b6a-4ddf-b951-aac608fd38b0)
 
 ## 🚀 Features
 - **Real-Time Color Detection**: Leverages **OpenCV** for efficient color detection and sorting.
