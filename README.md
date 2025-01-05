@@ -37,7 +37,8 @@ Follow these steps to get started with the project:
 - **Step 1**: Install Git if you haven't already. You can download it from [here](https://git-scm.com/downloads).
 - **Step 2**: Clone the repository by running this command in your terminal:
     
-    ```bash    git clone https://github.com/yourusername/color-sorting-system.git  
+    ```
+    bash    git clone https://github.com/yourusername/color-sorting-system.git  
     ```
 - **Step 3**: Connect the components to your Raspberry Pi according to the **Hardware Requirements** section.
 - **Step 4**: Run the program and enjoy!
